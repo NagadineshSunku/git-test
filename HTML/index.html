@@ -1,0 +1,277 @@
+<html>
+<head>
+</head>
+<body>
+<div>
+<h1 align="center">Assignment</h1>
+</div>
+<h3>Question 1:</h3>
+<dl>
+    <dt><b>1.Table:-</dt><br>
+    <dd>-The  HTML <mark>&lt;table&gt;</mark> element represents tabular data — that is, information presented in a two-dimensional table comprised of rows and columns of cells containing data.</dd>
+</dl>
+<br>
+
+<table border="2">
+    <!-- <p1>|-------------<mark>&lt;thead&gt;</mark>--------------|</p1> -->
+    <colgroup>
+        <col>
+        <col span="2">
+    </colgroup>
+    <thead><th colspan="4">Header <mark> &lt;thead&gt; </mark></th></thead>
+<thead>
+    
+    <th>Name <mark> <br> &lt;th&gt; </mark> </th>
+    <th>CGPA <mark> <br> &lt;th&gt; </mark> </th>
+    <th>Gender <mark> <br> &lt;th&gt; </mark> </th>
+    <th>Age <mark> <br> &lt;th&gt; </mark> </th>
+</thead>
+<tbody>
+<tr>
+    <td>Mike <mark> <br> &lt;td&gt; </mark> </td>
+    <td>9 <mark> <br> &lt;td&gt; </mark> </td>
+    <td>Male <mark> <br> &lt;td&gt; </mark> </td>
+    <td>23 <mark> <br> &lt;td&gt; </mark> </td>
+</tr>
+<tr>
+    <td>Harvey</td>
+    <td>8</td>
+    <td>Male</td>
+    <td>26</td>
+</tr>
+<tr>
+    <td>Debby</td>
+    <td>9</td>
+    <td>Female</td>
+    <td>26</td>
+</tr>
+</tbody>
+<tfoot>
+    <tr>
+        <td colspan="4" align="center"><b>Footer <mark>&lt;tfoot&gt;</mark></td>
+    </tr>
+</tfoot>
+</table>
+
+<dl>
+        <p1><b>2.Ordered and Unordered Lists:-</p1><br><br>
+            <dt>Ordered Lists:-</dt><br>
+
+        <dd>The &lt;ol&gt; HTML element represents an ordered list of items — typically rendered as a numbered list.</dd>
+        <ol>
+            <li>An ordered list starts with the &lt;ol&gt; tag. Each list item starts with the &lt;li&gt; tag.</li>
+            <li>The type attribute of the &lt;ol&gt; tag, defines the type of the list item marker:</li>
+            <ol type="a">
+                <li>type="1"	The list items will be numbered with numbers (default)</li>
+                <li>type="A"	The list items will be numbered with uppercase letters</li>
+                <li>type="a"	The list items will be numbered with lowercase letters</li>
+                <li>type="I"	The list items will be numbered with uppercase roman numbers</li>
+                <li>type="i"	The list items will be numbered with lowercase roman numbers</li>
+            </ol>
+      </ol>
+
+
+
+      <dt>UnOrdered Lists:-</dt><br>
+
+        <dd>The &lt;ul&gt; tag defines an unordered (bulleted) list.</dd>
+        <ul>
+            <li>An unordered list starts with the &lt;ul&gt; tag. Each list item starts with the &lt;li&gt; tag.</li>
+            <li>The list items will be marked with bullets (small black circles) by default:</li>
+      </ol>
+
+
+</dl>
+<br>
+
+<dl>
+    <p1><b></b>3.&lt;form&gt;,&lt;input&gt; and &lt;label&gt;:-</p1><br>
+    <dt>&lt;form&gt;:-</dt>
+    <dd>The HTML &lt;form&gt; element is used to create an HTML form for user input:</dd></span>
+    <dt>&lt;input&gt;:-</dt>
+    <dd>An &lt;input&gt; element can be displayed in many ways, depending on the type attribute.</dd>
+    <dt>&lt;label&gt;:-</dt>
+    <dd>The &lt;label&gt; element is useful for screen-reader users, because the screen-reader will read out loud the label when the user focus on the input element.</dd>
+    <p1>Ex:</p1>
+</dl>
+<form>
+<h4>Buy a T-Shirt</h4>
+<div>
+    <label>Which one do you want:</label>
+    <select>
+        <option>--Select--</option>
+        <option>Turtle Neck</option>
+        <option>Collar T-Shirt</option>
+        <option>Formal Shirt</option>
+        <option>Fancy Shirt</option>
+    </select>
+</div>
+<br>
+<div>
+    <label>Size:</label>
+    <select>
+        <option>--Select--</option>
+        <option>Small</option>
+        <option>Medium</option>
+        <option>Large</option>
+        <option>XL</option>
+    </select>
+    &nbsp;&nbsp;
+    <label>Color:</label>
+    <select>
+        <option>--Select--</option>
+        <option>Red</option>
+        <option>Green</option>
+        <option>Black</option>
+        <option>Violet</option>
+    </select>
+</div>
+<br>
+<div>
+    <label>Full Name:</label>
+    <input type="text" placeholder="First Name and Last Name">
+</div>
+<br>
+<div>
+    <label>Email:</label>
+    <input type="email" placeholder="Email">
+</div>
+<br>
+<div>
+    <label>Address:</label>
+    <input type="text">
+    <br>
+    <br>
+    <label>Address line 2:</label>
+    <input type="text" size="0" height="0">
+</div>
+<br>
+<div>
+    <label>City:</label>
+    <input type="text">
+</div>
+<br>
+<div>
+    <label>Country:</label>
+    <select>
+        <option>India</option>
+        <option>UK</option>
+        <option>US</option>
+    </select>
+</div>
+<br>
+<div>
+    <input type="submit" value="submit">
+
+</div>
+</form>
+
+<dl>
+    <dt><b>4.Self Ending Elements:-</dt><br>
+    <dd>The Elements with no need for ending tags</dd>
+    <ul>
+        <li>Break &lt;br&gt;:-&nbsp; used to create a line break</li>
+        <li>Image &lt;img&gt;:-&nbsp; It is used to define an image</li>
+        <li>Area &lt;area&gt;:-&nbsp; HTML area tag defines an area in an image based on coordinates which then accepts an URL and become a clickable area behaving like a hyperlink</li>
+        <li>Source &lt;src&gt;:-&nbsp; It is used to give multiple media of resources for audio, video, and pictures</li>
+    </ul>
+    <p1>Ex:</p1>
+</dl>
+<p>Click on laptop area</p>
+<img src="./Assets/1.jpg" usemap="#workmap" alt="Workplace" width="400" height="379">
+<map name="workmap">
+    <area shape="rect" coords="34,44,270,350" alt="Computer" href="computer.htm">
+</map>
+
+<hr>
+
+<h3>Question 2:</h3>
+
+&lt;html&gt;<br>
+
+&lt;head&gt;<br>
+
+&lt;h1&gt; Mydocument &lt;h1&gt;
+
+<br>
+&lt;/head&gt;
+<br>
+&lt;body&gt;
+<br>
+&lt;/body&gt;
+<br>
+&lt;/html&gt;
+
+<hr>
+
+<h3>Question 3:</h3>
+
+<dl>
+    <dt><b>HTML Quotes:-</dt><br>
+    <dd>The HTML Quotations is used to create quotation in HTML. The HTML &lt;q&gt; tag is used to define a short quotation. It is a block-level element and HTML &lt;blockquote&gt; tag is used to define a section that is quoted from another source.</dd>
+</dl>
+<ol>
+    <li>to use as less than symbol(left closing tag) <mark>&lt;</mark></li>
+    <li>to use as greaterthan symbol(right closing tag)<mark>&gt;</mark></li>
+    <li>to use as lessthan or equal to <mark>&le;</mark></li>
+    <li>to use as greater than or equal to <mark>&ge;</mark></li>
+    <li>to use as left double quotes<mark>&ldquo;</mark></li>
+    <li>to use as right double quotes<mark>&rdquo;</mark></li>
+
+</ol>
+<hr>
+<h3>Question 4:</h3>
+<p><b>The various elements required for the embed video are</p>
+<ul>
+    <li>Video tag:-<mark>&lt;video&gt;</mark> used to embed video content in a document, such as a movie clip or other video streams.</li>
+    <li>Source tag:-<mark>&lt;source&gt;</mark>The browser will choose the first source it supports.</li>
+    <li>Src:-<mark>src</mark> usedfor the video location.</li>
+    <li>Controls:-<mark>controls</mark> used for giving controls (slider) to see video</li>
+    <li>Type:-<mark>type</mark> used for identifying video formats</li>
+    <li>Poster:-<mark>poster</mark> used for the image showed firsat before playing the video.</li>
+    <li>Width:-<mark>width</mark> used for selcting specific width to show in the document.</li>
+    <li>Height:-<mark>height</mark> used for selcting specific height to show in the document.</li>
+</ul>
+<p><b></b>Ex:</p>
+<video controls poster="Assets/1.jpg" width="225" height="125">
+
+    <source src="./Assets/vid.mp4" type="video/mp4">
+</video>
+<hr>
+
+<h3>Question 5:</h3>
+
+<dl>
+    
+    <dt>HTML Attributes:-</dt>
+    <br>
+    <dd>-HTML attributes provide additional information about HTML elements.</dd>
+
+</dl>
+<dl>
+    <dt>Importance of Attributes in terms of functionalities</dt>
+    <ul>
+        <li>It will control the behavior of the elements based on the attribute performance in the web pages.</li>
+        <li>It will change the type of the text taking in as input.</li>
+        <li>In some of the elements it will be particularly requidred to make the functionality work properly.</li>
+        <li>Sometimes it is required to override the default functionality</li>
+
+    </ul>
+
+</dl>
+
+<p><b>Ex:</b></p>
+<ul>
+    <li>The &lt;a&gt; tag defines a hyperlink. The href attribute specifies the URL of the page the link goes to:</li><br>
+    <a href="#">Click on the link</a>
+    <br>
+    <li>The &lt;img&gt; tag need the src attribute to locate the image</li><br>
+    <img src="./Assets/1.jpg" alt="image" width="125" height="125">
+    <li>The &lt;img&gt; tag need the width and height attributes to specify the size in pixels</li>
+
+</ul>
+<hr>
+<img src="" alt="">
+</body>
+
+ </html>
