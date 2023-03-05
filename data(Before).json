@@ -1,5 +1,5 @@
 {
-  "INR": {
+  "India": {
     "shipping_details": "<b>Product not for sale in India, can be shipped overseas. Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "Send Gifts to your loved ones in US, Canada and UK",
@@ -32,7 +32,7 @@
       }
     ]
   },
-  "USD": {
+  "United States": {
     "shipping_details": "<b>Free standard shipping<\/b> on orders of <b>$35.00 USD<\/b> or more. Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -75,7 +75,7 @@
       }
     ]
   },
-  "AED": {
+  "UAE": {
     "shipping_details": "First time customers get Free shipping with the code <b>UAEFREESHIP<\/b>. For others <b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -113,7 +113,7 @@
       }
     ]
   },
-  "MYR": {
+  "Malaysia": {
     "shipping_details": "First time customers get Free shipping with the code <b>MALAYSIAFREESHIP<\/b>. For others <b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -151,7 +151,7 @@
       }
     ]
   },
-  "MXN": {
+  "Mexico": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -184,7 +184,7 @@
       }
     ]
   },
-  "JPY": {
+  "Japan": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -251,7 +251,7 @@
       "order_value_to": "152029.99"
     }
   },
-  "AUD": {
+  "Australia": {
     "shipping_details": "<b>Yes, we deliver in Australia! Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -294,7 +294,7 @@
       }
     ]
   },
-  "CAD": {
+  "Canada": {
     "shipping_details": "<b>Yes, we deliver in Canada! Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -342,7 +342,7 @@
       }
     ]
   },
-  "GBP": {
+  "United Kingdom": {
     "shipping_details": "<b>Yes, we deliver in UK! Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -380,7 +380,7 @@
       }
     ]
   },
-  "CHF": {
+  "Switzerland": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -418,7 +418,7 @@
       }
     ]
   },
-  "SGD": {
+  "Singapore": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -456,7 +456,7 @@
       }
     ]
   },
-  "EUR": {
+  "Netherlands": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -502,7 +502,375 @@
       }
     ]
   },
-  "SEK": {
+  "France": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "Germany": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "Ireland": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "Malta": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "Portugal": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "Finland": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "Estonia": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "Monaco": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "Sweden": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -535,7 +903,7 @@
       }
     ]
   },
-  "NZD": {
+  "New Zealand": {
     "shipping_details": "<b>Yes, we deliver in New Zealand! Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -611,7 +979,7 @@
       }
     ]
   },
-  "SAR": {
+  "Saudi Arabia": {
     "shipping_details": "First time customers get Free shipping with the code <b>SAUDIFREESHIP<\/b>. For others <b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -643,7 +1011,7 @@
       }
     ]
   },
-  "DKK": {
+  "Denmark": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -675,7 +1043,7 @@
       }
     ]
   },
-  "TWD": {
+  "Taiwan": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -707,7 +1075,7 @@
       }
     ]
   },
-  "MMK": {
+  "Myanmar": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -739,7 +1107,7 @@
       }
     ]
   },
-  "HKD": {
+  "Hong Kong": {
     "shipping_details": "First time customers get Free shipping with the code <b>HONGKONGFREESHIP<\/b>. For others <b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -781,7 +1149,7 @@
       }
     ]
   },
-  "MUR": {
+  "Mauritius": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -813,7 +1181,7 @@
       }
     ]
   },
-  "PHP": {
+  "Philippines": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -845,7 +1213,7 @@
       }
     ]
   },
-  "TTD": {
+  "Trinidad and Tobago": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -877,7 +1245,7 @@
       }
     ]
   },
-  "QAR": {
+  "Qatar": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -909,7 +1277,7 @@
       }
     ]
   },
-  "ZAR": {
+  "South Africa": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -951,7 +1319,7 @@
       }
     ]
   },
-  "KRW": {
+  "South Korea": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -983,7 +1351,7 @@
       }
     ]
   },
-  "ILS": {
+  "Israel": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1025,7 +1393,7 @@
       }
     ]
   },
-  "NOK": {
+  "Norway": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1057,7 +1425,7 @@
       }
     ]
   },
-  "HUF": {
+  "Hungary": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1094,7 +1462,7 @@
       }
     ]
   },
-  "PLN": {
+  "Poland": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1131,7 +1499,7 @@
       }
     ]
   },
-  "CZK": {
+  "Czech": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1173,7 +1541,7 @@
       }
     ]
   },
-  "VND": {
+  "Vietnam": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1205,7 +1573,7 @@
       }
     ]
   },
-  "ARS": {
+  "Argentina": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1247,7 +1615,7 @@
       }
     ]
   },
-  "PEN": {
+  "Peru": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1289,7 +1657,7 @@
       }
     ]
   },
-  "RON": {
+  "Romania": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1331,7 +1699,7 @@
       }
     ]
   },
-  "BSD": {
+  "Bahamas": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1373,7 +1741,7 @@
       }
     ]
   },
-  "NGN": {
+  "Nigeria": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1415,7 +1783,7 @@
       }
     ]
   },
-  "AOA": {
+  "Angola": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
@@ -1457,7 +1825,7 @@
       }
     ]
   },
-  "CRC": {
+  "Costa Rica": {
     "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
     "shipping_delay": "",
     "gifts": "",
