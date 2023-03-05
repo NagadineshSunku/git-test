@@ -1,0 +1,1509 @@
+{
+  "INR": {
+    "shipping_details": "<b>Product not for sale in India, can be shipped overseas. Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "Send Gifts to your loved ones in US, Canada and UK",
+    "customs_duties": "",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "Rs.",
+    "free_shipping_order_value": "3000",
+    "shipping_price_slab1": {
+      "shipping_price": "2.97",
+      "order_value_from": "25",
+      "order_value_to": "48.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "6.97",
+      "order_value_from": "10",
+      "order_value_to": "24"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "9.97",
+      "order_value_from": "",
+      "order_value_to": "9.99"
+    },
+    "show_shipping_details": "false",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "India",
+        "country_flag": ""
+      }
+    ]
+  },
+  "USD": {
+    "shipping_details": "<b>Free standard shipping<\/b> on orders of <b>$35.00 USD<\/b> or more. Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "$",
+    "free_shipping_order_value": "35",
+    "shipping_price_slab1": {
+      "shipping_price": "3.97",
+      "order_value_from": "35",
+      "order_value_to": "48.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "6.97",
+      "order_value_from": "25",
+      "order_value_to": "34.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "9.97",
+      "order_value_from": "15",
+      "order_value_to": "24.99"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "14.97",
+      "order_value_from": "10",
+      "order_value_to": "14.99"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "17.97",
+      "order_value_from": "",
+      "order_value_to": "9.99"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "USA",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/united-states-of-america-flag-icon-256_100x100.png?v=1584102959"
+      }
+    ]
+  },
+  "AED": {
+    "shipping_details": "First time customers get Free shipping with the code <b>UAEFREESHIP<\/b>. For others <b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "Dhs.",
+    "free_shipping_order_value": "150",
+    "shipping_price_slab1": {
+      "shipping_price": "11.19",
+      "order_value_from": "93.75",
+      "order_value_to": "149.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "18.69",
+      "order_value_from": "56.25",
+      "order_value_to": "93.74"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "33.69",
+      "order_value_from": "37.50",
+      "order_value_to": "56.24"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "44.89",
+      "order_value_from": "",
+      "order_value_to": "37.49"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "UAE",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1280px-Flag_of_the_United_Arab_Emirates.svg_a642c87d-e9de-41f1-b21e-4afe673653f8_100x100.png?v=1616415587"
+      }
+    ]
+  },
+  "MYR": {
+    "shipping_details": "First time customers get Free shipping with the code <b>MALAYSIAFREESHIP<\/b>. For others <b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "Dhs.",
+    "free_shipping_order_value": "219.03",
+    "shipping_price_slab1": {
+      "shipping_price": "14.47",
+      "order_value_from": "111.75",
+      "order_value_to": "219.02"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "35.75",
+      "order_value_from": "67.05",
+      "order_value_to": "111.74"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "53.59",
+      "order_value_from": "44.70",
+      "order_value_to": "67.04"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "66.99",
+      "order_value_from": "",
+      "order_value_to": "44.69"
+    },
+    "show_shipping_details": "false",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Malaysia",
+        "country_flag": ""
+      }
+    ]
+  },
+  "MXN": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "$",
+    "free_shipping_order_value": "998",
+    "shipping_price_slab1": {
+      "shipping_price": "60.54",
+      "order_value_from": "506",
+      "order_value_to": "997.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "142",
+      "order_value_from": "203",
+      "order_value_to": "487"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "202",
+      "order_value_from": "",
+      "order_value_to": "201"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Mexico",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Mexico.svg_4964e0dd-6329-4ec2-bfdf-c9f0c0bf1316_100x100.png?v=1612781830"
+      }
+    ]
+  },
+  "JPY": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "¥",
+    "free_shipping_order_value": "7056",
+    "show_surprise_free_gift_value": "false",
+    "shipping_price_slab1": {
+      "shipping_price": "429",
+      "order_value_from": "5040",
+      "order_value_to": "7055.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "719",
+      "order_value_from": "3600 ",
+      "order_value_to": "5039.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "1149",
+      "order_value_from": "2160",
+      "order_value_to": "3599.99"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "1729",
+      "order_value_from": "1440",
+      "order_value_to": "2159.99"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "2159",
+      "order_value_from": "",
+      "order_value_to": "1439.99"
+    }
+  },
+  "IDR": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "RP",
+    "free_shipping_order_value": "744947",
+    "show_surprise_free_gift_value": "false",
+    "shipping_price_slab1": {
+      "shipping_price": "45200",
+      "order_value_from": "379923",
+      "order_value_to": "744946.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "121200",
+      "order_value_from": "228045",
+      "order_value_to": "379922.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "182000",
+      "order_value_from": "152030",
+      "order_value_to": "228044.99"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "227600",
+      "order_value_from": "",
+      "order_value_to": "152029.99"
+    }
+  },
+  "AUD": {
+    "shipping_details": "<b>Yes, we deliver in Australia! Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "$",
+    "free_shipping_order_value": "74.99",
+    "shipping_price_slab1": {
+      "shipping_price": "4.58",
+      "order_value_from": "53.55",
+      "order_value_to": "74.98"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.64",
+      "order_value_from": "38.25",
+      "order_value_to": "53.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "12.25",
+      "order_value_from": "22.95",
+      "order_value_to": "38.24"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "18.35",
+      "order_value_from": "15.30",
+      "order_value_to": "22.94"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "22.94",
+      "order_value_from": "",
+      "order_value_to": "15.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Australia",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/australia-flag-vector-free-download_100x100.jpg?v=1597154824"
+      }
+    ]
+  },
+  "CAD": {
+    "shipping_details": "<b>Yes, we deliver in Canada! Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "$",
+    "free_shipping_order_value": "89.99",
+    "shipping_price_slab1": {
+      "shipping_price": "2.99",
+      "order_value_from": "70",
+      "order_value_to": "89.98"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "4.99",
+      "order_value_from": "48.30",
+      "order_value_to": "69.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "9.99",
+      "order_value_from": "34.50",
+      "order_value_to": "48.29"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "17.99",
+      "order_value_from": "20.70",
+      "order_value_to": "34.49"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "21.99",
+      "order_value_from": "13.80",
+      "order_value_to": "20.69"
+    },
+    "shipping_price_slab6": {
+      "shipping_price": "24.99",
+      "order_value_from": "",
+      "order_value_to": "13.79"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Canada",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/canada-flag-icon-256_100x100.png?v=1584103294"
+      }
+    ]
+  },
+  "GBP": {
+    "shipping_details": "<b>Yes, we deliver in UK! Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "<b>NO extra customs duties<\/b>. 100% delivery guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "£",
+    "free_shipping_order_value": "39.99",
+    "shipping_price_slab1": {
+      "shipping_price": "2.97",
+      "order_value_from": "25",
+      "order_value_to": "39.98"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "4.97",
+      "order_value_from": "15",
+      "order_value_to": "24.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "7.97",
+      "order_value_from": "10",
+      "order_value_to": "14.99"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "9.97",
+      "order_value_from": "",
+      "order_value_to": "9.99"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "UK",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/united-kingdom-flag-icon-256_100x100.png?v=1584103174"
+      }
+    ]
+  },
+  "CHF": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "<b>NO extra customs duties<\/b>. 100% delivery guaranteed",
+    "show_images": "true",
+    "support": "24\/7 Live customer support",
+    "money_symbol": "SFr.",
+    "free_shipping_order_value": "47",
+    "shipping_price_slab1": {
+      "shipping_price": "3.97",
+      "order_value_from": "25",
+      "order_value_to": "46.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "8.47",
+      "order_value_from": "14.4",
+      "order_value_to": "24.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.47",
+      "order_value_from": "9.99",
+      "order_value_to": "14.39"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "14.47",
+      "order_value_from": "",
+      "order_value_to": "9.98"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Switzerland",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Switzerland.svg_78085fe5-b8ac-4435-952c-585089ce4fb2_50x50.png?v=1591098181"
+      }
+    ]
+  },
+  "SGD": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "$",
+    "free_shipping_order_value": "69.09",
+    "shipping_price_slab1": {
+      "shipping_price": "4.20",
+      "order_value_from": "35.25",
+      "order_value_to": "69.08"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "11.23",
+      "order_value_from": "21.15",
+      "order_value_to": "35.24"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "16.90",
+      "order_value_from": "14.10",
+      "order_value_to": "21.14"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "21",
+      "order_value_from": "",
+      "order_value_to": "14.09"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Singapore",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-of-singapore_100x100.jpg?v=1602292353"
+      }
+    ]
+  },
+  "EUR": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed. <b>NO extra customs duties<\/b>",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "€",
+    "free_shipping_order_value": "50.49",
+    "shipping_price_slab1": {
+      "shipping_price": "2.79",
+      "order_value_from": "32.55",
+      "order_value_to": "50.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7.49",
+      "order_value_from": "13.95",
+      "order_value_to": "32.54"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11.19",
+      "order_value_from": "9.30",
+      "order_value_to": "13.94"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "13.99",
+      "order_value_from": "",
+      "order_value_to": "9.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Netherlands",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/flag-prototype-Netherlands-countries-European-flags_100x100.gif?v=1584449546"
+      },
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      },
+      {
+        "country_name": "Italy",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-Flag_of_Italy.svg_d953c149-b042-407e-a1fb-3d70ef8d0b3f_100x100.png?v=1612615433"
+      }
+    ]
+  },
+  "SEK": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "Kr",
+    "free_shipping_order_value": "",
+    "shipping_price_slab1": {
+      "shipping_price": "",
+      "order_value_from": "",
+      "order_value_to": ""
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "",
+      "order_value_from": "",
+      "order_value_to": ""
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "",
+      "order_value_from": "",
+      "order_value_to": ""
+    },
+    "show_shipping_details": "false",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "",
+        "country_flag": ""
+      }
+    ]
+  },
+  "NZD": {
+    "shipping_details": "<b>Yes, we deliver in New Zealand! Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "$",
+    "free_shipping_order_value": "99",
+    "shipping_price_slab1": {
+      "shipping_price": "6.09",
+      "order_value_from": "71.40",
+      "order_value_to": "98.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "10.19",
+      "order_value_from": "51",
+      "order_value_to": "71.39"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "16.29",
+      "order_value_from": "30.60",
+      "order_value_to": "50.99"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "24.49",
+      "order_value_from": "20.40",
+      "order_value_to": "30.59"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "30.59",
+      "order_value_from": "",
+      "order_value_to": "20.39"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "New Zealand",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/Flag-New-Zealand_100x100.jpg?v=1604783945"
+      }
+    ]
+  },
+  "FRF": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "Fr",
+    "free_shipping_order_value": "41",
+    "shipping_price_slab1": {
+      "shipping_price": "2.60",
+      "order_value_from": "23",
+      "order_value_to": "43.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "6.20",
+      "order_value_from": "9",
+      "order_value_to": "22.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "9.00",
+      "order_value_from": "",
+      "order_value_to": "9"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "France",
+        "country_flag": "https:\/\/cdn.shopify.com\/s\/files\/1\/1857\/6931\/files\/1200px-France_Flag.svg_6763c705-532d-4bd9-aa98-2e8dae925f4a_100x100.png?v=1606435509"
+      }
+    ]
+  },
+  "SAR": {
+    "shipping_details": "First time customers get Free shipping with the code <b>SAUDIFREESHIP<\/b>. For others <b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "SAR",
+    "free_shipping_order_value": "183.75",
+    "shipping_price_slab1": {
+      "shipping_price": "12",
+      "order_value_from": "93.75",
+      "order_value_to": "183.74"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "29.89",
+      "order_value_from": "37.50",
+      "order_value_to": "93.74"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "56.19",
+      "order_value_from": "",
+      "order_value_to": "37.49"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Saudi Arabia"
+      }
+    ]
+  },
+  "DKK": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "DKK",
+    "free_shipping_order_value": "376.32",
+    "shipping_price_slab1": {
+      "shipping_price": "22.99",
+      "order_value_from": "192",
+      "order_value_to": "376.31"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "61.39",
+      "order_value_from": "76.80",
+      "order_value_to": "191.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "115.19",
+      "order_value_from": "",
+      "order_value_to": "76.79"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Denmark"
+      }
+    ]
+  },
+  "TWD": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "TWD",
+    "free_shipping_order_value": "1559.18",
+    "shipping_price_slab1": {
+      "shipping_price": "95.39",
+      "order_value_from": "795.50",
+      "order_value_to": "1559.17"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "254.49",
+      "order_value_from": "318.20",
+      "order_value_to": "795.49"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "477.29",
+      "order_value_from": "",
+      "order_value_to": "318.19"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Taiwan"
+      }
+    ]
+  },
+  "MMK": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "Ks",
+    "free_shipping_order_value": "102846.10",
+    "shipping_price_slab1": {
+      "shipping_price": "6289",
+      "order_value_from": "52472.50",
+      "order_value_to": "102846.09"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "16789 ",
+      "order_value_from": "20989 ",
+      "order_value_to": "52427.49"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "31479",
+      "order_value_from": "",
+      "order_value_to": "20988.99"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Myanmar"
+      }
+    ]
+  },
+  "HKD": {
+    "shipping_details": "First time customers get Free shipping with the code <b>HONGKONGFREESHIP<\/b>. For others <b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "HKD",
+    "free_shipping_order_value": "392",
+    "shipping_price_slab1": {
+      "shipping_price": "23.76",
+      "order_value_from": "280",
+      "order_value_to": "391.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "39.76",
+      "order_value_from": "200",
+      "order_value_to": "279.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "63.76",
+      "order_value_from": "120",
+      "order_value_to": "199.99"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "95.76",
+      "order_value_from": "80",
+      "order_value_to": "119.99"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "119.76",
+      "order_value_from": "",
+      "order_value_to": "79.99"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Hong Kong"
+      }
+    ]
+  },
+  "MUR": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "Rs",
+    "free_shipping_order_value": "2528.35",
+    "shipping_price_slab1": {
+      "shipping_price": "339",
+      "order_value_from": "1287.16",
+      "order_value_to": "2528.34"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "669",
+      "order_value_from": "551.64",
+      "order_value_to": "1287.15"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "949",
+      "order_value_from": "",
+      "order_value_to": "551.63"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Mauritius"
+      }
+    ]
+  },
+  "PHP": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "Php",
+    "free_shipping_order_value": "2887.57",
+    "shipping_price_slab1": {
+      "shipping_price": "176.69",
+      "order_value_from": "1473.25",
+      "order_value_to": "2887.56"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "471.29",
+      "order_value_from": "589.30",
+      "order_value_to": "1473.24"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "883.69",
+      "order_value_from": "",
+      "order_value_to": "589.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Philippines"
+      }
+    ]
+  },
+  "TTD": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "$",
+    "free_shipping_order_value": "340.55",
+    "shipping_price_slab1": {
+      "shipping_price": "20.79",
+      "order_value_from": "174",
+      "order_value_to": "340.54"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "55.59",
+      "order_value_from": "69.45",
+      "order_value_to": "173.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "104.19",
+      "order_value_from": "",
+      "order_value_to": "69.44"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Trinidad and Tobago"
+      }
+    ]
+  },
+  "QAR": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "QAR",
+    "free_shipping_order_value": "182.28",
+    "shipping_price_slab1": {
+      "shipping_price": "11.15",
+      "order_value_from": "92.99",
+      "order_value_to": "182.27"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "29.69",
+      "order_value_from": "37.20",
+      "order_value_to": "92.98"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "55.79",
+      "order_value_from": "",
+      "order_value_to": "37.19"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Qatar"
+      }
+    ]
+  },
+  "ZAR": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "R",
+    "free_shipping_order_value": "889.35",
+    "shipping_price_slab1": {
+      "shipping_price": "99",
+      "order_value_from": "635.25",
+      "order_value_to": "889.34"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "199",
+      "order_value_from": "453.75",
+      "order_value_to": "635.24"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "249",
+      "order_value_from": "272.25",
+      "order_value_to": "453.74"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "299",
+      "order_value_from": "181.50",
+      "order_value_to": "272.24"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "399",
+      "order_value_from": "",
+      "order_value_to": "181.49"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "South Africa"
+      }
+    ]
+  },
+  "KRW": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "₩ ",
+    "free_shipping_order_value": "56140",
+    "shipping_price_slab1": {
+      "shipping_price": "3403",
+      "order_value_from": "26644",
+      "order_value_to": "56130"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "7986",
+      "order_value_from": "11458",
+      "order_value_to": "26643"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "11422",
+      "order_value_from": "",
+      "order_value_to": "11457"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "South Korea"
+      }
+    ]
+  },
+  "ILS": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "NIS",
+    "free_shipping_order_value": "213",
+    "shipping_price_slab1": {
+      "shipping_price": "29.99",
+      "order_value_from": "143.50",
+      "order_value_to": "212.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "39.99",
+      "order_value_from": "102.50",
+      "order_value_to": "143.49"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "59.99",
+      "order_value_from": "61.50",
+      "order_value_to": "102.49"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "69.99",
+      "order_value_from": "41",
+      "order_value_to": "61.49"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "79.99",
+      "order_value_from": "",
+      "order_value_to": "40.99"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Israel"
+      }
+    ]
+  },
+  "NOK": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "NOK",
+    "free_shipping_order_value": "526.26",
+    "shipping_price_slab1": {
+      "shipping_price": "32.19",
+      "order_value_from": "268.50",
+      "order_value_to": "526.25"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "85.89",
+      "order_value_from": "107.40",
+      "order_value_to": "268.49"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "161.09",
+      "order_value_from": "",
+      "order_value_to": "107.39"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Norway"
+      }
+    ]
+  },
+  "HUF": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "HUF",
+    "free_shipping_order_value": "20726.02",
+    "shipping_price_slab1": {
+      "shipping_price": "1268",
+      "order_value_from": "10574.50",
+      "order_value_to": "20726.01"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "3383",
+      "order_value_from": "6344.70",
+      "order_value_to": "10574.49"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "5075",
+      "order_value_from": "4229.80",
+      "order_value_to": "6344.69"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "6344",
+      "order_value_from": "",
+      "order_value_to": "4229.79"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Hungary"
+      }
+    ]
+  },
+  "PLN": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "PLN",
+    "free_shipping_order_value": "242.06",
+    "shipping_price_slab1": {
+      "shipping_price": "14.79",
+      "order_value_from": "123.50",
+      "order_value_to": "242.05"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "39.49",
+      "order_value_from": "74.10",
+      "order_value_to": "123.49"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "59.19",
+      "order_value_from": "49.40",
+      "order_value_to": "74.09"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "74.09",
+      "order_value_from": "",
+      "order_value_to": "49.39"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Poland"
+      }
+    ]
+  },
+  "CZK": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "CZK",
+    "free_shipping_order_value": "1251.46",
+    "shipping_price_slab1": {
+      "shipping_price": "76.39",
+      "order_value_from": "893.90",
+      "order_value_to": "1251.45"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "127.69",
+      "order_value_from": "638.50",
+      "order_value_to": "893.89"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "204.29",
+      "order_value_from": "383.10",
+      "order_value_to": "638.49"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "306.39",
+      "order_value_from": "255.40",
+      "order_value_to": "383.09"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "382.99",
+      "order_value_from": "",
+      "order_value_to": "255.39"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Czech"
+      }
+    ]
+  },
+  "VND": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "VND",
+    "free_shipping_order_value": "1146538",
+    "shipping_price_slab1": {
+      "shipping_price": "70000",
+      "order_value_from": "584854 ",
+      "order_value_to": "1146537.99"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "187000 ",
+      "order_value_from": "233801 ",
+      "order_value_to": "584853.99"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "351000 ",
+      "order_value_from": " ",
+      "order_value_to": "233800.99"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Vietnam"
+      }
+    ]
+  },
+  "ARS": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "ARS",
+    "free_shipping_order_value": "8012.48",
+    "shipping_price_slab1": {
+      "shipping_price": "489",
+      "order_value_from": "5723.20",
+      "order_value_to": "8012.47"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "816",
+      "order_value_from": "4088",
+      "order_value_to": "5723.19"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "1308",
+      "order_value_from": "2452.80",
+      "order_value_to": "4087.99"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "1962",
+      "order_value_from": "1635.20",
+      "order_value_to": "2452.79"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "2452",
+      "order_value_from": "",
+      "order_value_to": "1635.19"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Argentina"
+      }
+    ]
+  },
+  "PEN": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "PEN",
+    "free_shipping_order_value": "187.67",
+    "shipping_price_slab1": {
+      "shipping_price": "11.39",
+      "order_value_from": "134.05",
+      "order_value_to": "187.66"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "19.09",
+      "order_value_from": "95.75",
+      "order_value_to": "134.04"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "30.59",
+      "order_value_from": "57.45",
+      "order_value_to": "95.74"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "45.89",
+      "order_value_from": "38.30",
+      "order_value_to": "57.44"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "57.39",
+      "order_value_from": "",
+      "order_value_to": "38.29"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Peru"
+      }
+    ]
+  },
+  "RON": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "RON",
+    "free_shipping_order_value": "235.69",
+    "shipping_price_slab1": {
+      "shipping_price": "14.39",
+      "order_value_from": "168.35",
+      "order_value_to": "235.68"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "23.99",
+      "order_value_from": "120.25",
+      "order_value_to": "168.34"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "38.69",
+      "order_value_from": "72.15",
+      "order_value_to": "120.24"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "57.69",
+      "order_value_from": "48.10",
+      "order_value_to": "72.14"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "72",
+      "order_value_from": "",
+      "order_value_to": "48.09"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Romania"
+      }
+    ]
+  },
+  "BSD": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "BSD",
+    "free_shipping_order_value": "49.49",
+    "shipping_price_slab1": {
+      "shipping_price": "3.02",
+      "order_value_from": "35.35",
+      "order_value_to": "49.48"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "5.04",
+      "order_value_from": "25.25",
+      "order_value_to": "35.34"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "8.07",
+      "order_value_from": "15.15",
+      "order_value_to": "25.24"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "12.11",
+      "order_value_from": "10.10",
+      "order_value_to": "15.14"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "15.14",
+      "order_value_from": "",
+      "order_value_to": "10.09"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Bahamas"
+      }
+    ]
+  },
+  "NGN": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "NGN",
+    "free_shipping_order_value": "21690.34",
+    "shipping_price_slab1": {
+      "shipping_price": "1319",
+      "order_value_from": "15493.10",
+      "order_value_to": "21690.33"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "2209",
+      "order_value_from": "11066.50",
+      "order_value_to": "15493.09"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "3539",
+      "order_value_from": "6639.90",
+      "order_value_to": "11066.49"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "5309",
+      "order_value_from": "4426.60",
+      "order_value_to": "6639.89"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "6639",
+      "order_value_from": "",
+      "order_value_to": "4426.59"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Nigeria"
+      }
+    ]
+  },
+  "AOA": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "AOA",
+    "free_shipping_order_value": "25045.86",
+    "shipping_price_slab1": {
+      "shipping_price": "1529",
+      "order_value_from": "17889.90",
+      "order_value_to": "25045.85"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "2549",
+      "order_value_from": "12778.50",
+      "order_value_to": "17889.89"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "4089",
+      "order_value_from": "7667.10",
+      "order_value_to": "12778.49"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "6129",
+      "order_value_from": "5111.40",
+      "order_value_to": "7667.09"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "7667",
+      "order_value_from": "",
+      "order_value_to": "5111.39"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Angola"
+      }
+    ]
+  },
+  "CRC": {
+    "shipping_details": "<b>Free Express shipping<\/b> on orders of <b>@free_shipping_order_value<\/b> or more. <b>No extra duties.<\/b> Prices inclusive of all charges.",
+    "shipping_delay": "",
+    "gifts": "",
+    "customs_duties": "100% Satisfaction Guaranteed",
+    "show_images": "true",
+    "support": "",
+    "money_symbol": "CRC",
+    "free_shipping_order_value": "29020.25",
+    "shipping_price_slab1": {
+      "shipping_price": "1769",
+      "order_value_from": "20728.75",
+      "order_value_to": "29020.24"
+    },
+    "shipping_price_slab2": {
+      "shipping_price": "2949",
+      "order_value_from": "14806.25",
+      "order_value_to": "20728.74"
+    },
+    "shipping_price_slab3": {
+      "shipping_price": "4729",
+      "order_value_from": "8883.75",
+      "order_value_to": "14806.24"
+    },
+    "shipping_price_slab4": {
+      "shipping_price": "7099",
+      "order_value_from": "5922.50",
+      "order_value_to": "8883.74"
+    },
+    "shipping_price_slab5": {
+      "shipping_price": "8879",
+      "order_value_from": "",
+      "order_value_to": "5922.49"
+    },
+    "show_shipping_details": "true",
+    "show_surprise_free_gift_value": "false",
+    "country_details": [
+      {
+        "country_name": "Costa Rica"
+      }
+    ]
+  },
+  "additional_info": {
+    "express_shipping_to": "USA, UK, Canada, Netherlands, Switzerland, Singapore, Australia, New Zealand, France, Italy, Mexico, UAE",
+    "note": "*Note:You may expect a delay in delivery (5-7 business days) due to COVID.",
+    "note2": "Changes to Shipping address after an order has been shipped may result in additional charges",
+    "newsletter_offer_price": "5",
+    "sms_offer_price": "5"
+  }
+}
