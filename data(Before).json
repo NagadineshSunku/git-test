@@ -1,7 +1,9 @@
 M assets/afterpay_info.liquid
  M assets/app.js.liquid
  M assets/appstle-init.js
+ M assets/bss-product-label-custom-position.js
  M assets/pagefly.blog.css
+ M assets/pagefly.d9ea38b8.css
  M assets/problogger.css.liquid
  M assets/social_login.js
  M config/settings_data.json
@@ -14,6 +16,7 @@ M assets/afterpay_info.liquid
  M sections/pf-9f11b1a0.liquid
  M sections/pf-abfec58f.liquid
  M sections/pf-d70092f4.liquid
+ M sections/pf-d9ea38b8.liquid
  M sections/product-description-bottom-template.liquid
  M sections/product-template.liquid
  M snippets/SEOManager.liquid
@@ -21,8 +24,6 @@ M assets/afterpay_info.liquid
  M snippets/adroll.liquid
  M snippets/appstle-subscription-build-a-box-v1.liquid
  M snippets/booster-seo.liquid
- M snippets/bss-product-label-fonts.liquid
- M snippets/bss-product-labels-configs.liquid
  M snippets/image-element-coll-meroxx.liquid
  M snippets/image-element-meroxio.liquid
  M snippets/jquery-lib.liquid
@@ -36,7 +37,6 @@ M assets/afterpay_info.liquid
  M snippets/pagefly-comment-form.liquid
  M snippets/pagefly-featured-image.liquid
  M snippets/pagefly-head.liquid
- M snippets/pagefly-settings.liquid
  M snippets/pro-blogger-section-wrapper.liquid
  M snippets/pro-blogger.shortcode.liquid
  M snippets/pro-blogger.snippet.image-captions.liquid
